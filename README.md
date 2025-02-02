@@ -5,7 +5,7 @@ This repository contains the code and model for beverage sales prediction using 
 ## Dataset
 The dataset used in this project is publicly available on Kaggle. You can download it using the link below:
 
-[Download the dataset](https://www.kaggle.com/dataset/your-dataset-link)
+[Download the dataset]([https://www.kaggle.com/dataset/your-dataset-link](https://www.kaggle.com/datasets/sebastianwillmann/beverage-sales))
 
 ## Files
 - `EDA.ipynb`: Exploratory Data Analysis
